@@ -1,0 +1,10 @@
+Step1: Got Data from Json Link
+Step2: Converetd Data from Json to Csv in Pandas
+Step3: After getting First file, Named the coulmns as Deatils and count in Excel
+Step4: Uploaded Same on Jupyter
+Step45: Done the cleaning process
+Step6: Final cleaning in Excel
+Step7: Imported Data in SQL
+Step8: Creted Pivot and Normalized it
+Step9: Done some Analysis
+Step10: Moved all the analysis in Excel and Created Dashboard
