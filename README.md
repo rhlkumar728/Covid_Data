@@ -13,8 +13,8 @@ In this project we will be Analyzing covid data, Coming from covid19india.org, T
 
 Dashboard Screenshot
 
-![image](https://user-images.githubusercontent.com/62884175/190382877-d313f56f-cb37-43b0-86f5-373c5a3a5f7b.png)
-![image](https://user-images.githubusercontent.com/62884175/190382970-3469c35d-e38b-4bb9-8adc-ce3d6eadd880.png)
+![image](https://user-images.githubusercontent.com/62884175/190383312-687db0b5-8f70-4e5e-ae74-4c7ef75a24b1.png)
+![image](https://user-images.githubusercontent.com/62884175/190383401-a0e002a5-3bad-4330-a81d-9ebde02263af.png)
 
 
 
